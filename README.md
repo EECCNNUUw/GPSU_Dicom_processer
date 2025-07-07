@@ -104,7 +104,7 @@ class DicomProcessor:
 
 ## 联系信息
 
-如果你有任何问题或建议，请通过以下方式联系我们：
+如果你有任何问题或建议，请通过以下方式联系我：
 
 - 邮箱：1849668628@qq.com
 - GitHub：https://github.com/EECCNNUUw/GPSU_Dicom_processer
